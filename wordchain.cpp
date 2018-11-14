@@ -43,7 +43,7 @@ int main() {
 	char _start[10];
 	char _target[10];
 
-	scanf("%s %s",&_start,&_target);
+	scanf("%s %s",_start,_target);
 
 	string start(_start);
 	string target(_target);
